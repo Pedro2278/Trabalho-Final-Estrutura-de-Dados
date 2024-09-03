@@ -61,8 +61,9 @@ src/
     ├── Main.java
     ├── Vertice.java
     └── VisualizacaoGrafo.java
-
+```
 
 Esse README oferece uma visão clara e organizada do projeto, suas funcionalidades, e como executá-lo, sendo ideal para inclusão em um repositório Git.
 
-
+Link para o video no canal do Youtube:
+https://youtu.be/-wXSvaS5W5s
